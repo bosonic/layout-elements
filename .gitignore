@@ -1,0 +1,7 @@
+node_modules/*
+bower_components/*
+demo/lib/*
+C:\\nppdf32Log\\debuglog.txt
+sauce.json
+.grunt/*
+npm-debug.log
